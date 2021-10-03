@@ -38,7 +38,16 @@ div#padding{
   transition: .4s;
   text-align: center;
 }
+p#Tittle{
+  display: inline-block;
+  padding: 0.3em 1em;
+  text-decoration: none;
+  font-family: "Lucida Console", "Courier New", monospace;
 
+  font-size: 30px;
+
+  text-align: center;
+}
 .text{
   display: inline-block;
   padding: 0.3em 1em;
