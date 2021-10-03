@@ -1,4 +1,4 @@
-let socket = new WebSocket("ws://localhost:9090/test");
+let socket = new WebSocket("ws://90.175.129.152:9090/test");
 
 var button = document.getElementById('connect');
 
